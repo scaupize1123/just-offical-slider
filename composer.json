@@ -1,0 +1,17 @@
+{
+    "name": "scaupize1123/just-offical-news",
+    "description": "news package",
+    "type": "metaproject",
+    "authors": [
+        {
+            "name": "ppm1111",
+            "email": "ppqqbbdd1111@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Scaupize1123\\JustOfficalNews\\": "src/"
+        }
+    }
+}
